@@ -1,0 +1,5 @@
+下载aspectj  地址   http://www.eclipse.org/aspectj/downloads.php
+
+下载aspectj的adt地址http://www.eclipse.org/ajdt/downloads/#43zips
+
+build.gradle  aspectJ  写法  http://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/
